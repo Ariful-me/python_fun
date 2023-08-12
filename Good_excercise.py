@@ -1,4 +1,4 @@
-# this is basic concept to "try" function to skip the program line code
+# this is a basic concept of using "try" function to skip the program line code, if it it fails or works.
 num = 0
 count = 0
 avgvalue = 0
